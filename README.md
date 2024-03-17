@@ -29,7 +29,7 @@ Tasks performed in the provided code:
 
 Overall, the code provides a comprehensive workflow for exploring, preprocessing, training, and evaluating a neural network model for sentiment analysis while addressing the challenge of overfitting.
 
-# The Dataset will be online fetched by the Kaggle Link
+# The Dataset will be fetched online by the Kaggle Link
 
 ![loss](https://github.com/ArsalMirza007/Unveiling-Overfitting-Patterns-A-Deep-Dive-into-the-Sentiment140-Dataset/assets/121928372/fd2e0aba-3e10-42d1-ad9c-36f0a621256c)
 ![accuracy](https://github.com/ArsalMirza007/Unveiling-Overfitting-Patterns-A-Deep-Dive-into-the-Sentiment140-Dataset/assets/121928372/0c682107-ce9c-4612-b50e-cd8ceeaa51bb)
